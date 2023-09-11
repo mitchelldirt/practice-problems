@@ -1,0 +1,14 @@
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.AssemblyInfoInputs.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.AssemblyInfo.cs
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.csproj.CoreCompileInputs.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/net7.0/cSharpProblems
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/net7.0/cSharpProblems.deps.json
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/net7.0/cSharpProblems.runtimeconfig.json
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/net7.0/cSharpProblems.dll
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/net7.0/cSharpProblems.pdb
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.dll
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/refint/cSharpProblems.dll
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.pdb
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/cSharpProblems.genruntimeconfig.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/net7.0/ref/cSharpProblems.dll

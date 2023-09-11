@@ -1,0 +1,6 @@
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/bin/Debug/practiceProblems.exe
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/bin/Debug/practiceProblems.pdb
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/obj/Debug/practiceProblems.csproj.AssemblyReference.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/obj/Debug/practiceProblems.csproj.CoreCompileInputs.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/obj/Debug/practiceProblems.exe
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/practiceProblems/obj/Debug/practiceProblems.pdb

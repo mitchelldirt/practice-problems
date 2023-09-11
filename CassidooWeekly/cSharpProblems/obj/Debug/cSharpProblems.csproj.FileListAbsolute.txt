@@ -1,0 +1,6 @@
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/cSharpProblems.exe
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/bin/Debug/cSharpProblems.pdb
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/cSharpProblems.csproj.AssemblyReference.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/cSharpProblems.csproj.CoreCompileInputs.cache
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/cSharpProblems.exe
+/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/Debug/cSharpProblems.pdb
