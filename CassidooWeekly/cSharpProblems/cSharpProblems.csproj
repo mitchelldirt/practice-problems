@@ -13,6 +13,6 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="sortAndGroup.cs" />
+        <Compile Include="staircase.cs" />
     </ItemGroup>
 </Project>
