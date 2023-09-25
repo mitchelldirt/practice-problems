@@ -13,6 +13,6 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="staircase.cs" />
+        <Compile Include="Pokemon.cs" />
     </ItemGroup>
 </Project>
