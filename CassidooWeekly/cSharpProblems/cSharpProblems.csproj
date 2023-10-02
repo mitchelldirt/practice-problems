@@ -13,6 +13,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="AddOperators.cs" />
         <Compile Include="Pokemon.cs" />
     </ItemGroup>
 </Project>
