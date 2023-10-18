@@ -4,7 +4,7 @@ namespace cSharpProblems;
 
 public class Pokemon
 {
-    public static async Task Main()
+    public static async Task NotMain()
     {
         Console.WriteLine(await TypeMatchup("normal"));
         Console.WriteLine(await TypeMatchup("fighting"));

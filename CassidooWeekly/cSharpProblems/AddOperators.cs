@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class AddOperators
 {
-    public static void Main()
+    public static void NotMain()
     {
         var result1 = AddOps(123, 6);
         var result2 = AddOps(345623749, 9191);

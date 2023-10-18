@@ -5,6 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+        <EntryPointExe>IsIsomorphic</EntryPointExe>
     </PropertyGroup>
     <ItemGroup>
         <Reference Include="System" />
@@ -14,6 +15,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="AddOperators.cs" />
+        <Compile Include="IsIsomorphic.cs" />
         <Compile Include="Pokemon.cs" />
     </ItemGroup>
 </Project>
