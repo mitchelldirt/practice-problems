@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elt236l6fkks6wCaSfAtk6Y8IjyNjhmOLxpDk8mxpOyXUf3E3nCNWj5C8rz5EaS0xitQOlrwQlHGw74s+GEFQw==",
+  "dgSpecHash": "oVgUIDw2xl/sh5lK44k/WHeOVNGZzAkOPd6uyznVP4stDfZ+5c6Dv1E2wR5+K4zkTzRDYo2TcLWRINj0y2kMXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MitchellMudd\\RiderProjects\\practice-problems\\CassidooWeekly\\cSharpProblems\\cSharpProblems.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\MitchellMudd\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\MitchellMudd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\MitchellMudd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\MitchellMudd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/cSharpProblems.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

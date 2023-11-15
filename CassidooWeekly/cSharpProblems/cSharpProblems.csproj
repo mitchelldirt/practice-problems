@@ -16,6 +16,7 @@
     <ItemGroup>
         <Compile Include="AddOperators.cs" />
         <Compile Include="IsIsomorphic.cs" />
+        <Compile Include="MaxTasks.cs" />
         <Compile Include="Pokemon.cs" />
         <Compile Include="WordScore.cs" />
     </ItemGroup>

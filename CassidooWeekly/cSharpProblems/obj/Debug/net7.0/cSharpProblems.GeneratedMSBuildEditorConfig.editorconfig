@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cSharpProblems
-build_property.ProjectDir = C:\Users\MitchellMudd\RiderProjects\practice-problems\CassidooWeekly\cSharpProblems\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/

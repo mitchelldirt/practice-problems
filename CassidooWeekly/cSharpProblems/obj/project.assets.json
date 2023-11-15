@@ -8,24 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MitchellMudd\\.nuget\\packages\\": {}
+    "/Users/mitchellm/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MitchellMudd\\RiderProjects\\practice-problems\\CassidooWeekly\\cSharpProblems\\cSharpProblems.csproj",
+      "projectUniqueName": "/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/cSharpProblems.csproj",
       "projectName": "cSharpProblems",
-      "projectPath": "C:\\Users\\MitchellMudd\\RiderProjects\\practice-problems\\CassidooWeekly\\cSharpProblems\\cSharpProblems.csproj",
-      "packagesPath": "C:\\Users\\MitchellMudd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MitchellMudd\\RiderProjects\\practice-problems\\CassidooWeekly\\cSharpProblems\\obj\\",
+      "projectPath": "/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/cSharpProblems.csproj",
+      "packagesPath": "/Users/mitchellm/.nuget/packages/",
+      "outputPath": "/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MitchellMudd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mitchellm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,30 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.11, 7.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.11, 7.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.11, 7.0.11]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.11, 7.0.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

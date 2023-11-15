@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class Program
 {
-   public static void AlsoNotMain()
+   public static void NotMainIsomorphic()
    {
       Console.WriteLine(IsIsomorphic("abb", "cdd"));
       Console.WriteLine(IsIsomorphic("cassidy", "1234567"));
