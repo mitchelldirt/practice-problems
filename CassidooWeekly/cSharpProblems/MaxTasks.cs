@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class MaxCasidooTasks_ccs
 {
-    public static void Main()
+    public static void MaxTasksMain()
     {
         var sampleCasidooTasks = new List<CasidooTask>();
         sampleCasidooTasks.Add(new CasidooTask {Name = "A", Duration = 4});

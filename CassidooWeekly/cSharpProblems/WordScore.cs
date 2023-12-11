@@ -4,7 +4,7 @@ public class WordScore
 {   
   
     
-    public static void Main()
+    public static void WordScoreMain()
     {
         string[] wordList = {"apple", "banana", "cherry", "date", "fig"};   
         
