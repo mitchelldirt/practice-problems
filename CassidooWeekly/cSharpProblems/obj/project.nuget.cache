@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oVgUIDw2xl/sh5lK44k/WHeOVNGZzAkOPd6uyznVP4stDfZ+5c6Dv1E2wR5+K4zkTzRDYo2TcLWRINj0y2kMXA==",
+  "dgSpecHash": "NF3eTVpGIJTmIBGgsC7k3JExldvtOgCIdQeQdkHoLa+3LdnnmiNKu2o+5GKiMGrOnXv0KARG0/EB6iswMnuuPA==",
   "success": true,
   "projectFilePath": "/Users/mitchellm/Documents/pRepos/practice-problems/CassidooWeekly/cSharpProblems/cSharpProblems.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mitchellm/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/mitchellm/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/mitchellm/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class MajorityElement
 {
-    public static void Main()
+    public static void MajorityElementMain()
     {
         Console.WriteLine(GetMajorityElement(new int[] {3,1,4,1}));
         Console.WriteLine(GetMajorityElement(new int[] {33,44,55,66,77}));
