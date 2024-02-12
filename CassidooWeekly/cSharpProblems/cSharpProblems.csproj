@@ -16,6 +16,7 @@
     <ItemGroup>
         <Compile Include="AddOperators.cs" />
         <Compile Include="Flip2DArray.cs" />
+        <Compile Include="GeneratorRange.cs" />
         <Compile Include="IsIsomorphic.cs" />
         <Compile Include="MajorityElement.cs" />
         <Compile Include="MaxTasks.cs" />

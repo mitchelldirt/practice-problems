@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class Flip2DArray
 {
-    public static void Main()
+    public static void MainFlipArray()
     {
         var array = new int[3][] {new int[] {1, 2, 3}, new int[] {4, 5, 6}, new int[] {7, 8, 9}};
         var array2 = new int[3][] {new int[] {1, 2, 3}, new int[] {4, 5, 6}, new int[] {7, 8, 9}};
