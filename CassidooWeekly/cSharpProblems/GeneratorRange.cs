@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class GeneratorRange
 {
-    public static void Main()
+    public static void GeneratorRangeMain()
     {
         var range = FromTo(0, 3).GetEnumerator();
         
