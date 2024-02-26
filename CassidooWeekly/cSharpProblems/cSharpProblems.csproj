@@ -22,6 +22,7 @@
         <Compile Include="MaxTasks.cs" />
         <Compile Include="MinCalories.cs" />
         <Compile Include="Pokemon.cs" />
+        <Compile Include="RemoveDigit.cs" />
         <Compile Include="WordLengthProduct.cs" />
         <Compile Include="WordScore.cs" />
     </ItemGroup>

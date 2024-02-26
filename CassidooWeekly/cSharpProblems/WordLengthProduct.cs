@@ -2,7 +2,7 @@ namespace cSharpProblems;
 
 public class WordLengthProduct
 {
-    public static void Main()
+    public static void MainWordLengthProduct()
     {
         Console.WriteLine(WordLengthProductFunc(new []{"fish","fear","boo","egg","cake","abcdef"}));
         Console.WriteLine(WordLengthProductFunc(new []{"a","aa","aaa","aaaa"}));
