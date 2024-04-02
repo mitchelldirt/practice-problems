@@ -20,7 +20,6 @@ function generateMatrix(n: number): number[][] {
   let colEnd = n - 1;
 
   while (rowBegin <= rowEnd && colBegin <= colEnd) {
-
     // left => right
     for (let i = colBegin; i <= colEnd; i++) {
       matrix[rowBegin][i] = num++;
